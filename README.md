@@ -2,5 +2,5 @@
 End to End machine learning project (Vehicle dataset Used Cars data form websites) 
 https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
-![](images/car price pred.PNG)
-![](images/cmd.PNG)
+![](Images/car price pred.PNG)
+![](Images/cmd.PNG)
